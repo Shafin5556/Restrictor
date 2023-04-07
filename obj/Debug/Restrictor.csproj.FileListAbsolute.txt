@@ -1,0 +1,38 @@
+C:\Users\Shafin Ahmed\Desktop\Restrictor\Restrictor\Restrictor\bin\Debug\Restrictor.exe.config
+C:\Users\Shafin Ahmed\Desktop\Restrictor\Restrictor\Restrictor\bin\Debug\Restrictor.exe
+C:\Users\Shafin Ahmed\Desktop\Restrictor\Restrictor\Restrictor\bin\Debug\Restrictor.pdb
+C:\Users\Shafin Ahmed\Desktop\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.csproj.AssemblyReference.cache
+C:\Users\Shafin Ahmed\Desktop\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shafin Ahmed\Desktop\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.Properties.Resources.resources
+C:\Users\Shafin Ahmed\Desktop\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.csproj.GenerateResource.cache
+C:\Users\Shafin Ahmed\Desktop\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.csproj.CoreCompileInputs.cache
+C:\Users\Shafin Ahmed\Desktop\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.exe
+C:\Users\Shafin Ahmed\Desktop\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.pdb
+C:\Users\Shafin Ahmed\Desktop\Restrictor\Restrictor\Restrictor\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Shafin Ahmed\Desktop\Restrictor\Restrictor\Restrictor\bin\Debug\Guna.UI2.dll
+C:\Users\Shafin Ahmed\Desktop\Restrictor\Restrictor\Restrictor\bin\Debug\Siticone.UI.dll
+C:\Users\Shafin Ahmed\Desktop\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.csproj.CopyComplete
+C:\Users\Shafin Ahmed\Desktop\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.UI.Login.resources
+C:\Users\Shafin Ahmed\Desktop\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.UI.Restrictor.resources
+C:\Users\Shafin Ahmed\Desktop\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.UI.WebBlock.resources
+C:\Users\Shafin Ahmed\Desktop\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.UI.AppBlock.resources
+C:\Users\Shafin Ahmed\Desktop\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.UI.Form1.resources
+I:\C#\Restrictor\Restrictor\Restrictor\bin\Debug\Restrictor.exe.config
+I:\C#\Restrictor\Restrictor\Restrictor\bin\Debug\Restrictor.exe
+I:\C#\Restrictor\Restrictor\Restrictor\bin\Debug\Restrictor.pdb
+I:\C#\Restrictor\Restrictor\Restrictor\bin\Debug\Bunifu_UI_v1.52.dll
+I:\C#\Restrictor\Restrictor\Restrictor\bin\Debug\Guna.UI2.dll
+I:\C#\Restrictor\Restrictor\Restrictor\bin\Debug\Siticone.UI.dll
+I:\C#\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.csproj.AssemblyReference.cache
+I:\C#\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.csproj.SuggestedBindingRedirects.cache
+I:\C#\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.Properties.Resources.resources
+I:\C#\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.UI.AppBlock.resources
+I:\C#\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.UI.Form1.resources
+I:\C#\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.UI.Login.resources
+I:\C#\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.UI.Restrictor.resources
+I:\C#\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.UI.WebBlock.resources
+I:\C#\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.csproj.GenerateResource.cache
+I:\C#\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.csproj.CoreCompileInputs.cache
+I:\C#\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.csproj.CopyComplete
+I:\C#\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.exe
+I:\C#\Restrictor\Restrictor\Restrictor\obj\Debug\Restrictor.pdb
